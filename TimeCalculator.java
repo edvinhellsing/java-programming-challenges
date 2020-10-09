@@ -22,5 +22,8 @@ public class TimeCalculator {
             System.out.print("That is " + numberInput + " seconds.");
          }
       }
+      catch(Exception e) {
+         System.out.println(e);
+      }
    }
 }
