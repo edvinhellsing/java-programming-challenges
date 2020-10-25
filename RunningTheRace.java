@@ -3,12 +3,8 @@ import java.util.Scanner;
 public class RunningTheRace {
    public static void main(String[] args) {
       
-      String runnerName1;
-      String runnerName2;
-      String runnerName3;
-      int runnerTime1;
-      int runnerTime2;
-      int runnerTime3;
+      String runnerName1, runnerName2, runnerName3;
+      int runnerTime1, runnerTime2, runnerTime3;
 
       try (Scanner keyboard = new Scanner(System.in); ) {
 
