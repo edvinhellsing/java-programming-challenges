@@ -13,10 +13,10 @@ public class ShippingCharges {
 
       try (Scanner keyboard = new Scanner(System.in); ) {
 
-         System.out.print("Enter the enter the weight (in pounds) of a package: ");
+         System.out.print("Enter the weight (in pounds) of a package: ");
          weightInput = keyboard.nextInt();
 
-         System.out.print("Enter the enter the distance (in miles) of a package: ");
+         System.out.print("Enter the distance (in miles) of a package: ");
          distanceInput = keyboard.nextDouble();
 
          distanceExtras = distanceInput / 500;
