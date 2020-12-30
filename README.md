@@ -1,4 +1,4 @@
-# javaPractice
+# Java Programming Challenges
 The repository presents my suggested solutions to Java related programming challenges given and the end of every chapter in the textbook, without solutions which I more than once during the process would have found useful. The book in question is "Starting Out with Java: From Control Structures through Objects (6th Edition)" by Tony Gaddis (2015).
 
 # objective
